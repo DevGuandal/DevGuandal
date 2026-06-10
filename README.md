@@ -1,6 +1,6 @@
 #  Samuel Guandalini
 
-*Desenvolvedor Front End*
+*Desenvolvedor Fullstack*
 
 *Me chamo Samuel Guandalini, tenho 19 anos e sou natural de Marilia,São Paulo. Concluí o ensino médio no Colégio E.E Prof Amilcare Mattei,  Atualmente, estou cursando Desenvolvimento de Sistemas na Fatec "[Perfil do Instagram]("https://www.instagram.com/samuel_guandal/").
 estou sempre buscando evoluir em lógica, boas práticas e programação.*
